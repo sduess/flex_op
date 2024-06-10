@@ -4,7 +4,9 @@ This repository contains the [SHARPy](http://github.com/imperialcollegelondon/sh
 <p align="center">
 <img  src="doc/source/FLEXOP_white.png" alt="Aerodynamic FLEXOP model">
  </p>
- 
+
+## Nonlinear Aeroservoelastic Studies using the (Super)FLEXOP as a Demonstrator Model
+- [Enhanced_UVLM_nonlinear_aeroelastic](https://github.com/sduess/Enhanced_UVLM_nonlinear_aeroelastic)
 ## Installation
 
 Clone the repository to your local computer. It is intended for use within SHARPy so you must ensure that SHARPy is 
@@ -57,7 +59,7 @@ flexop_model.run()
 
 ## References
 
-[1] Duessler, S., & Palacios. A Control Design Framework for Gust Load Alleviation in more Flexible Aircraft. IFASD, 2022.
+[1] Duessler, S., & Palacios. [Enhanced Unsteady Vortex Lattice Aerodynamics for Nonlinear Flexible Aircraft Dynamic Simulation](https://doi.org/10.2514/1.J063174). AIAA Journal 62(4):1-16, 2023.
 
 ## Contact
 
